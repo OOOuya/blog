@@ -4,7 +4,7 @@
 
 后端：
 
-mybatis + springboot + oAuth2
+mybatis + springboot
 
 ### 引入mybatis
 
